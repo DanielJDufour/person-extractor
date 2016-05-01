@@ -15,9 +15,12 @@ Leader
 Manager
 Member
 President
+President of the Senate
 Regent
 Representative
 Senator
+Speaker
+Speaker of the House
 Spokesman
 Spokesperson
 Spokeswoman

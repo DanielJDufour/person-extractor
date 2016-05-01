@@ -19,8 +19,8 @@ for filename in listdir(directory_of_patterns):
     language = filename.split(".")[0]
     with open(directory_of_patterns + "/" + language + ".txt") as f:
         pattern_as_string = (f.read().decode("utf-8").strip())
-        print "p"
-        print pattern_as_string
+        #print "p"
+        #print pattern_as_string
         pattern = re_compile(pattern_as_string, flags=flags)
         language_pattern[language] = pattern
 
