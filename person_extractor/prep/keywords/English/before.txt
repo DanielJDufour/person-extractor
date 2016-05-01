@@ -8,16 +8,22 @@ Chief
 Chief Executive Officer
 Chief Financial Officer
 Delegate
+Deputy
 Executive
 General
 Director
+Honorable
 Leader
 Manager
 Member
+Member of Parliament
 President
 President of the Senate
 Regent
 Representative
+Secretary
+Secretary of Defense
+Secretary of State
 Senator
 Speaker
 Speaker of the House

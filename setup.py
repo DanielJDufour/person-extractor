@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'person-extractor',
   packages = ['person_extractor'],
-  version = '2.5',
+  version = '2.6',
   description = 'Extracts people from text',
   author = 'Daniel J. Dufour',
   author_email = 'daniel.j.dufour@gmail.com',
