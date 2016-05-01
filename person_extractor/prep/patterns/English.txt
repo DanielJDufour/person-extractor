@@ -1,0 +1,1 @@
+([A-Z][a-z]{3,15} ){0,5}(?:Chief Executive Officer|Chief Financial Officer|Representative|Superintendant|Superintendent|Vice President|Spokesperson|Spokeswoman|Affiliate|Executive|President|Spokesman|Delegate|Director|General|Manager|Senator|Viceroy|Leader|Member|Regent|Chief) (?P<person>[A-Z][a-z]{2,15}( [A-Z][a-z]{2,15}){0,2})
